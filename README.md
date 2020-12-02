@@ -1,5 +1,4 @@
-  GNU nano 2.7.4                                                                               File: README.md                                                                                         
-
+                                                                             
 <img alt="GitHub" src="https://img.shields.io/github/license/MikeOrceis/VUE_Frontend?style=flat-square"> <img alt="GitHub 1" src="https://img.shields.io/github/repo-size/MikeOrceis/VUE_Frontend?style=flat-square">
 <img alt="GitHub " src="https://img.shields.io/github/issues/MikeOrceis/VUE_Frontend?style=flat-square">
 <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/MikeOrceis/VUE_Frontend?style=flat-square">
@@ -11,7 +10,6 @@
 <hr>
 
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MikeOrceis/VUE_Frontend">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/MikeOrceis/VUE_Frontend">
 # VUE_Frontend
 
 
