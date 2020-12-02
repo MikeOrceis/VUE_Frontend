@@ -11,7 +11,7 @@
 <hr>
 
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MikeOrceis/VUE_Frontend">
-<img alt="GitHub package.json dynamic" src="https://img.shields.io/github/package-json/dependencies/MikeOrceis/VUE_Frontend">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/MikeOrceis/VUE_Frontend">
 # VUE_Frontend
 
 
