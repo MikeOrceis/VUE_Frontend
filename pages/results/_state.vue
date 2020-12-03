@@ -11,7 +11,7 @@
 import axios from 'axios';
 export default {
   asyncData({params}) {
-    return axios.get(`http://localhost/case?state=${params.state}`)
+    return axios.get(`http://localhost:3000/case?state=${params.state}`)
       .then((response) => {
         return {albumData: response.data.results}
       });

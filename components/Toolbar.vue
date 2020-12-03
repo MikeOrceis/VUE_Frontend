@@ -2,30 +2,20 @@
   <v-toolbar dark color="blue">
     <v-toolbar-side-icon></v-toolbar-side-icon>
     <v-toolbar-title class="white--text">
-            <v-btn
-              color="secondary"
-              dark
-            >
-              <nuxt-link class="title" to="results/prio">Prio</nuxt-link>
-            </v-btn>
-            <v-btn
-              color="secondary"
-              dark
-            >
-              <nuxt-link class="title" to="results/open">Offene</nuxt-link>
-            </v-btn>
-            <v-btn
-              color="secondary"
-              dark
-            >
-              <nuxt-link class="title" to="results/closed">Geschlossene</nuxt-link>
-            </v-btn>
-
+      Maindesk
     </v-toolbar-title>
     <v-spacer></v-spacer>
+     <nuxt-link class="title" to="/results/prio">Prio</nuxt-link>
+     <nuxt-link class="title" to="/state/prio">Prio</nuxt-link>
   </v-toolbar>
 </template>
 <script>
 </script>
 <style scoped>
+.title {
+  text-decoration: none !important;
+}
+.title:visited{
+  color: white;
+}
 </style>
